@@ -2,9 +2,7 @@ window.STORE_CONFIG = {
   storeName: "Clawora Beauty",
   currency: "PKR",
 
-  // WhatsApp number country code के साथ, बिना + के
-  // Example: 923422271226
-  whatsappNumber: "",
+  whatsappNumber: "923422271226",
 
   supportEmail: "",
   instagram: "",
