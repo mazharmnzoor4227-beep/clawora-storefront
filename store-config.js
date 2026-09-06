@@ -3,7 +3,7 @@ window.STORE_CONFIG = {
   currency: "PKR",
 
   // WhatsApp number country code के साथ, बिना + के
-  // Example: 923001234567
+  // Example: 923422271226
   whatsappNumber: "",
 
   supportEmail: "",
